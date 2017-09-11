@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_h64gsZbxEeeGkrKSveRflQ" label="Customer" description="" language="java" technicalLabel="CUSTOMER" creationDate="2017-09-11T18:31:24.000+0530" author="_h64gspbxEeeGkrKSveRflQ" productVersion="Talend Data Fabric-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/yashzany/Anudeep&quot;,&quot;login&quot;:&quot;yashzany&quot;,&quot;passwd&quot;:&quot;JGL5q4UY5jm47Y/hGxVmVg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM"/>
+  <TalendProperties:User xmi:id="_h64gspbxEeeGkrKSveRflQ" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
